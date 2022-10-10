@@ -1,37 +1,44 @@
 [
   {
-    "image": "giant_pandas.jpg",
+    "image": "giant_pandas",
     "name": "giant Pandas",
-    "location": "Native to Southwest China"
+    "location": "Native to Southwest China",
+    "icon": "banana-bamboo_icon"
   },
   {
-    "image": "eagles.jpg",
+    "image": "eagles",
     "name": "eagles",
-    "location": "Native to South America"
+    "location": "Native to South America",
+    "icon": "meet-fish_icon"
   },
   {
-    "image": "gorillas.jpg",
+    "image": "gorillas",
     "name": "gorillas",
-    "location": "Native to Congo"
+    "location": "Native to Congo",
+    "icon": "banana-bamboo_icon"
   },
   {
-    "image": "two-toed_sloth.jpg",
+    "image": "two-toed_sloth",
     "name": "two-toed sloth",
-    "location": "Mesoamerica, South America"
+    "location": "Mesoamerica, South America",
+    "icon": "banana-bamboo_icon"
   },
   {
-    "image": "alligators.jpg",
+    "image": "alligators",
     "name": "alligators",
-    "location": "Native to Southeastern U. S."
+    "location": "Native to Southeastern U. S.",
+    "icon": "meet-fish_icon"
   },
   {
-    "image": "cheetahs.jpg",
+    "image": "cheetahs",
     "name": "cheetahs",
-    "location": "Native to Africa"
+    "location": "Native to Africa",
+    "icon": "meet-fish_icon"
   },
   {
-    "image": "penguins.jpg",
+    "image": "penguins",
     "name": "penguins",
-    "location": "Native to Antarctica"
-  } 
+    "location": "Native to Antarctica",
+    "icon": "meet-fish_icon"
+  }
 ]

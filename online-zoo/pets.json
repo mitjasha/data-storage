@@ -1,0 +1,37 @@
+[
+  {
+    "image": "giant_pandas.jpg",
+    "name": "giant Pandas",
+    "location": "Native to Southwest China"
+  },
+  {
+    "image": "eagles.jpg",
+    "name": "eagles",
+    "location": "Native to South America"
+  },
+  {
+    "image": "gorillas.jpg",
+    "name": "gorillas",
+    "location": "Native to Congo"
+  },
+  {
+    "image": "two-toed_sloth.jpg",
+    "name": "two-toed sloth",
+    "location": "Mesoamerica, South America"
+  },
+  {
+    "image": "alligators.jpg",
+    "name": "alligators",
+    "location": "Native to Southeastern U. S."
+  },
+  {
+    "image": "cheetahs.jpg",
+    "name": "cheetahs",
+    "location": "Native to Africa"
+  },
+  {
+    "image": "penguins.jpg",
+    "name": "penguins",
+    "location": "Native to Antarctica"
+  } 
+]
